@@ -1,1 +1,2 @@
-<img scr="https://raw.githubusercontent.com/Cheryl322/Technicrab_Project1_SAD_20232024/main/9.0%20Requirement%20Analysis%20(based%20on%20AS-IS%20analysis)/9.1%20Current%20business%20process%20(scenarios%2C%20workflow)/9.1.drawio.png" alt="9.1.drawio" width="600"/>
+## 9.1 Current business process (scenarios, workflow)
+<img src="https://raw.githubusercontent.com/Cheryl322/Technicrab_Project1_SAD_20232024/main/image/9.1.drawio.png" alt="9.1.drawio" width="600"/>
