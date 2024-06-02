@@ -2,7 +2,7 @@
 
 The current system is a manual process that is not that efficient and productive. However, it includes a few key services and features, as listed below:
 
-  1. Membership Registration
+1. Membership Registration
 
 This is a structured process for staff to become members, granting them access to a variety of cooperative benefits and services.
 
@@ -12,7 +12,7 @@ The existing system for member registration is manual, requiring information to 
 Figure 3.1 Member Registration Form
 
 
-  2. Loan Applications
+2. Loan Applications
 
 Financial support through loans for personal, educational, or business purposes. The loan application process aims to be straightforward and efficient, enabling cooperative members to secure the necessary funds promptly. The existing system for loan applications is also manual, requiring information to be filled out on printed forms.
 
@@ -22,7 +22,8 @@ Financial support through loans for personal, educational, or business purposes.
 Figure 3.2 Member Loan Applications Form
 
 
-  3.0 Member Financial Statements
+
+3.0 Member Financial Statements
 
 Koperasi Kakitangan KADA Kelantan Berhad currently uses a manual system for generating and distributing member financial statements. This involves collecting financial data manually from various records and compiling it into individual member statements. These statements include details such as the member's name, IC number, shares held, loans taken, and savings.
 
