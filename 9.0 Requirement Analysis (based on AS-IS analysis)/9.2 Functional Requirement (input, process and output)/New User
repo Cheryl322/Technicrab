@@ -1,0 +1,3 @@
+Input: A new user inputs their personal information, including details such as name, address, contact information, and other required identification data.
+Process: The system processes this information to register the individual as a member. It involves verifying the provided information, creating a unique member ID, and storing the data securely in the system's database.
+Output: The new user receives a confirmation of their membership application status, indicating whether the registration was successful or failed.
