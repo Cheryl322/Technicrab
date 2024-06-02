@@ -23,8 +23,7 @@ Financial support through loans for personal, educational, or business purposes.
 
 Figure 3.2 Member Loan Applications Form
 
-
-  3.0 Member Financial Statements
+  3. Member Financial Statements
 
 Koperasi Kakitangan KADA Kelantan Berhad currently uses a manual system for generating and distributing member financial statements. This involves collecting financial data manually from various records and compiling it into individual member statements. These statements include details such as the member's name, IC number, shares held, loans taken, and savings.
 
