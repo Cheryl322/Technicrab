@@ -1,1 +1,2 @@
-
+## 6.0 Objectives
+  The objective of this project is to design a system that includes four key processes which are member registration, loan application, reporting, and saving by using the System Development Life Cycle (SDLC). The project will start by identifying problems, opportunities, and objectives. Next, we determine human information requirements and analyze what the system needs. Finally, we design the recommended system that is suitable for our client in the form of prototyping and demonstrating it to our client for approval and feedback.
