@@ -6,7 +6,7 @@
 ## <a href="https://github.com/Cheryl322/Technicrab_Project1_SAD_20232024/tree/main/2.0%20Information%20Gathering%20Process">2.0 Information Gathering Process
 </a> 
 
-## <a heref="https://github.com/Cheryl322/Technicrab_Project1_SAD_20232024/tree/main/3.0%20Background%20Study">3.0 Background Study
+## <a href="https://github.com/Cheryl322/Technicrab_Project1_SAD_20232024/tree/main/3.0%20Background%20Study">3.0 Background Study
 </a>
 
 ## <a href="https://github.com/Cheryl322/Technicrab_Project1_SAD_20232024/tree/main/4.0%20Problem%20Statement">4.0 Problem Statement
