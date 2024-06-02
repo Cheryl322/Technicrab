@@ -1,0 +1,3 @@
+Input: The Board Director receives member applications and loan applications that require higher-level authorization.
+Process: The Board Director reviews these applications for final approval. For member applications, this involves a thorough examination of the applicant's details and the initial admin review. For loan applications, the Board Director ensures that the loans meet the organization's strategic criteria and compliance standards before giving final approval.
+Output: The output for member applications is the result of the application, reflecting the final decision. For loan applications, the output is the result of the loan application, indicating the final status of approval or rejection.
