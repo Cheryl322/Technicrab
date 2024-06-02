@@ -1,1 +1,5 @@
-
+- Respond to user actions within 2 seconds for 95% of the requests
+- Available 99.9% of the time, making sure there is less downtime
+- Implemented secure login mechanisms and role-based access control to protect user data
+- Able to effortlessly navigate the system’s intuitive and user-friendly interface
+- Adhere to accessibility standards to accommodate users with disabilities
