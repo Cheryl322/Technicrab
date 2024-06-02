@@ -1,0 +1,3 @@
+Input: A member inputs a savings amount to save money in their account and submits a loan application when they need financial assistance.
+Process: The system processes the savings amount, updating the member’s account balance and calculating potential dividends based on the saved amount and applicable interest rates. The system processes the application for loan applications by verifying the member's eligibility and generating a status update based on the review outcome.
+Output: The member receives information about their account's updated balance and the calculated dividend amount. Additionally, for loan applications, the member receives a status update indicating whether their loan application has been approved, rejected, or if further information is required.
