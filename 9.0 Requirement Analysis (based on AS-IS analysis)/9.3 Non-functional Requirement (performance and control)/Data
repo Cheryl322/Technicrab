@@ -1,5 +1,0 @@
-- Scalable to handle up to 10,000 registered members
-- Ensure data consistency and integrity 
-- Personal information must be encrypted
-- Regular automated backups of data to prevent data loss
-- Support standard data formats for easy data exchange with other systems
