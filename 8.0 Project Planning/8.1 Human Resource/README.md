@@ -1,1 +1,1 @@
-
+  Our group consists of 5 members which are Cheryl Cheong Kah Voon, Chau Ying Jia, Lau Yee Wen,  Neo Li Xin, and Woo Cheng Shuan. Each person has been assigned a specific role to ensure that the project can proceed smoothly like Cheryl Cheong Kah Voon as the programmer, Chau Ying Jia as the designer, Lau Yee Wen as a tester, Neo Li Xin as the database administrator, and Woo Cheng Shuan as the system analyst. Each person's role is assigned based on their abilities to ensure that everyone can utilize their strengths.
