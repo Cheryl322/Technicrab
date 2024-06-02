@@ -1,0 +1,3 @@
+Input: The admin receives member applications and loan applications submitted by users.
+Process: The admin reviews and authorizes these applications. For member applications, the admin verifies the authenticity and completeness of the submitted information. For loan applications, the admin assesses the applicant's eligibility based on predefined criteria and approves or rejects the application accordingly.
+Output: The output for member applications is the status of the member application, showing whether it has been approved or rejected. Similarly, for loan applications, the output is the status of the loan application, indicating whether the loan has been approved or rejected.
